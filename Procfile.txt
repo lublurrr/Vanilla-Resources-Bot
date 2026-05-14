@@ -1,0 +1,1 @@
+worker: python vanilla_bot.py
